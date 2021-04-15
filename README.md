@@ -1,5 +1,7 @@
 # hpc_lecture
 
+## Student ID(学籍番号): 20M38216
+
 |          | Topic                                | Sample code               |
 | -------- | ------------------------------------ | ------------------------- |
 | Class 1  | Introduction to parallel programming |                           |
